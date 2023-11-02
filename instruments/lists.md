@@ -1,3 +1,5 @@
-[List of musical instruments (wikipedia)](https://en.wikipedia.org/wiki/List_of_musical_instruments)
+<img src="https://www.wikipedia.org/static/favicon/wikipedia.ico" width="20" height="20" />&nbsp;
+[List of musical instruments](https://en.wikipedia.org/wiki/List_of_musical_instruments)
 
-[Musical Instruments (britannica)](https://www.britannica.com/browse/Musical-Instruments)
+<img src="https://www.britannica.com/favicon.png" width="20" height="20" />&nbsp;
+[Musical Instruments](https://www.britannica.com/browse/Musical-Instruments)
