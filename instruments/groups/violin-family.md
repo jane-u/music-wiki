@@ -33,8 +33,4 @@
 
 **Kennedy Violins**. What is _**Col legno**_?
 
-Col legno is an Italian word that means “with wood”.  It’s a technique that often used with violin and other bowed stringed instruments.    
-
-Col legno has been used as an effect for a long time in orchestral music but it’s probably more prevalent in modern classical music.  The variety of emotions that can be conveyed with col legno is really infinite and it can be used from everything from painting a picture of nature to creating a scary effect in a modern movie.  
-
-Col legno is used by bouncing the bow the same way you would with any other spicatto technique.  
+[Col legno](https://en.wikipedia.org/wiki/Col_legno) is an Italian word that means “with wood”.  It’s a technique that often used with violin and other bowed stringed instruments. Col legno is used by bouncing the bow the same way you would with any other spicatto technique.  
