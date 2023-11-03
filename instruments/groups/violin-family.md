@@ -26,8 +26,10 @@
 
 ---
 
+
 [<img src="https://www.youtube.com/s/desktop/7ea5dfab/img/favicon_32x32.png" align="right">](https://youtu.be/XRCbFHquBoM)
 
+<img src="https://yt3.googleusercontent.com/ytc/APkrFKY4K-AUYwieDAYjNVb--lL_xNjuvOeOHkbUatInxHE=s176-c-k-c0x00ffffff-no-rj" width="20" height="20" align="left" />
 
 **Kennedy Violins**. What is _**Col legno**_?
 
