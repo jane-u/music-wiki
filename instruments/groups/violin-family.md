@@ -8,7 +8,7 @@
 &emsp;&emsp;&emsp;
 [Cello](https://en.wikipedia.org/wiki/Cello)
 &emsp;&emsp;&emsp;
-[Bass](https://en.wikipedia.org/wiki/Double_bass)
+[Double bass](https://en.wikipedia.org/wiki/Double_bass)
 &emsp;&emsp;&emsp;
 [Fiddle](https://en.wikipedia.org/wiki/Fiddle)
 
