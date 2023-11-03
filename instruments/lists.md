@@ -6,3 +6,5 @@
 
 <img src="https://www.wikipedia.org/static/favicon/wikipedia.ico" width="20" height="20" />&nbsp;
 [Ranges](https://en.wikipedia.org/wiki/Range_(music))
+
+[The Orchestra. A user manual. From Andrew Hugill](https://andrewhugill.com/OrchestraManual/index.html)
