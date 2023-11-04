@@ -1,4 +1,13 @@
-[Orchestra manual. Violins](https://andrewhugill.com/OrchestraManual/violins.html)
+Orchestra manual
+&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;
+[Violins](https://andrewhugill.com/OrchestraManual/violins.html)
+&emsp;&emsp;&emsp;
+[Violas](https://andrewhugill.com/OrchestraManual/violas.html)
+&emsp;&emsp;&emsp;
+[Cellos](https://andrewhugill.com/OrchestraManual/cellos.html)
+&emsp;&emsp;&emsp;
+[Double basses](https://andrewhugill.com/OrchestraManual/basses.html)
 
 <img src="https://www.wikipedia.org/static/favicon/wikipedia.ico" width="20" height="20" />&nbsp;
 [Violin family](https://en.wikipedia.org/wiki/Violin_family)
