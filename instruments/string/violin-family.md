@@ -1,3 +1,8 @@
+<img src="https://www.wikipedia.org/static/favicon/wikipedia.ico" width="20" height="20" />&nbsp;
+[String instrument](https://en.wikipedia.org/wiki/String_instrument)
+
+---
+
 Orchestra manual
 &emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;
