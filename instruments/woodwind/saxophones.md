@@ -17,3 +17,6 @@
 
 [Orchestra manual. Saxophones](https://andrewhugill.com/OrchestraManual/saxophones.html)
 
+[Saxophonia](https://rajivssaxophonia.weebly.com)
+
+[Saxophonia. Instrument construction](https://rajivssaxophonia.weebly.com/instrument-construction.html)
