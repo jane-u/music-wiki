@@ -13,5 +13,7 @@
 
 [Yamaha. Musical instrument guide. Saxophone](https://www.yamaha.com/en/musical_instrument_guide/saxophone/)
 
+[EDinformatics. Saxophone. Technique picture](https://www.edinformatics.com/inventions_inventors/saxophone.htm)
+
 [Orchestra manual. Saxophones](https://andrewhugill.com/OrchestraManual/saxophones.html)
 
