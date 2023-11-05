@@ -8,3 +8,5 @@
 [Ranges](https://en.wikipedia.org/wiki/Range_(music))
 
 [The Orchestra. A user manual. From Andrew Hugill](https://andrewhugill.com/OrchestraManual/index.html)
+
+[Yamaha. Musical instruments guide](https://www.yamaha.com/en/musical_instrument_guide/)
