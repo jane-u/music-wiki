@@ -26,6 +26,12 @@ Orchestra manual
 <img src="https://static.xx.fbcdn.net/rsrc.php/yb/r/hLRJ1GG_y0J.ico" width="20" height="20" />&nbsp;
 [Difference between violin and fiddle](https://www.facebook.com/SteveSmithMusicSite/videos/335015492437710/?app=fbl) - video
 
+---
+[<img src="https://img.youtube.com/vi/R0tFpfpl0b0/maxresdefault.jpg" width=10% height=10% align="right">](https://youtu.be/R0tFpfpl0b0)
+
+VIOLIN VIBRATO EXAMPLES - Normal speed/slow motion
+
+---
 <img src="https://violinspiration.com/wp-content/uploads/2018/06/cropped-violin-33610_640-32x32.png" width="20" height="20" />&nbsp;
 [What is Viola Clef & How Violists Read Music](https://violinspiration.com/viola-clef/)
 
