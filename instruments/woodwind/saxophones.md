@@ -11,5 +11,7 @@
 
 [Madehow.com. Saxophone. Construction. Tenor picture.](http://www.madehow.com/Volume-6/Saxophone.html)
 
+[Yamaha. Musical instrument guide. Saxophone](https://www.yamaha.com/en/musical_instrument_guide/saxophone/)
+
 [Orchestra manual. Saxophones](https://andrewhugill.com/OrchestraManual/saxophones.html)
 
