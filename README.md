@@ -1,6 +1,46 @@
 # music-wiki
 
+<img src="https://www.musipedia.org/fileadmin/mp/favicon.ico" width="20" height="20" />&nbsp;
+[Musipedia - The Open Music Encyclopedia](https://www.musipedia.org/) - melody search engine.
 
+<img src="[https://www.musipedia.org/fileadmin/mp/favicon.ico](https://secure.gravatar.com/blavatar/298e6d19c5b3cee39795333813dfe82a752730d3be94b88e43af85b09cfb4bfc?s=32)" width="20" height="20" />&nbsp;
+[Orchestra sounds](https://orchestrasounds.com/) - a blog about orchestra music with examples.
+
+
+
+
+
+
+
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+---
+#### formatting examples
 
 [<img src="https://img.youtube.com/vi/AuFxE7rePVA/maxresdefault.jpg" width=20% height=20% align="right">](https://youtu.be/AuFxE7rePVA)
 
@@ -17,3 +57,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Baftasowhite play background
 
 ##
+
+
+<img src="https://www.britannica.com/favicon.png" width="20" height="20" />&nbsp;
+[Musical Instruments](https://www.britannica.com/browse/Musical-Instruments)
+
+
