@@ -3,10 +3,11 @@
 <img src="https://www.musipedia.org/fileadmin/mp/favicon.ico" width="20" height="20" />&nbsp;
 [Musipedia - The Open Music Encyclopedia](https://www.musipedia.org/) - melody search engine.
 
-<img src="[https://www.musipedia.org/fileadmin/mp/favicon.ico](https://secure.gravatar.com/blavatar/298e6d19c5b3cee39795333813dfe82a752730d3be94b88e43af85b09cfb4bfc?s=32)" width="20" height="20" />&nbsp;
+<img src="https://secure.gravatar.com/blavatar/298e6d19c5b3cee39795333813dfe82a752730d3be94b88e43af85b09cfb4bfc?s=32" width="20" height="20" />&nbsp;
 [Orchestra sounds](https://orchestrasounds.com/) - a blog about orchestra music with examples.
 
-
+<img src="https://www.youtube.com/s/desktop/7ea5dfab/img/favicon_32x32.png" width="20" height="20" />&nbsp;
+[@ScoreFollower](https://www.youtube.com/@ScoreFollower) - videos of contemporary music scores that turn pages along with the accompanying recordings.
 
 
 
