@@ -9,7 +9,7 @@
 <img src="https://www.youtube.com/s/desktop/7ea5dfab/img/favicon_32x32.png" width="20" height="20" />&nbsp;
 [@ScoreFollower](https://www.youtube.com/@ScoreFollower) - videos of contemporary music scores that turn pages along with the accompanying recordings.
 
-[Harmony.Org.Uk](https://www.harmony.org.uk) - this website summarises a new theory which explains the relationship between chord progressions and voice leading and shows how chord progression patterns create musical phrase structures in tonal (and tonally influenced) music similar to sentence structures in natural language.
+
 
 
 
