@@ -9,7 +9,7 @@
 <img src="https://www.youtube.com/s/desktop/7ea5dfab/img/favicon_32x32.png" width="20" height="20" />&nbsp;
 [@ScoreFollower](https://www.youtube.com/@ScoreFollower) - videos of contemporary music scores that turn pages along with the accompanying recordings.
 
-
+[Musictheory.Net](https://www.musictheory.net) - free lessons and exercises.
 
 
 
