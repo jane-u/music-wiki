@@ -13,8 +13,7 @@
 
 [ teoría : Music Theory Web](https://www.teoria.com/index.php)
 
-
-
+[JazzImproviser.com](https://jazzimproviser.com) - modern music theory and application - Lessons from Jazz/World to 20 Century Classical Music Harmony Rhythm and Theory.
 
 .
 
