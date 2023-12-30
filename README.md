@@ -15,6 +15,9 @@
 
 [JazzImproviser.com](https://jazzimproviser.com) - modern music theory and application - Lessons from Jazz/World to 20 Century Classical Music Harmony Rhythm and Theory.
 
+
+https://music.stackexchange.com/questions/6401/whats-the-difference-between-modal-music-and-tonal-music
+
 .
 
 .
