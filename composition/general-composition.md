@@ -8,3 +8,4 @@ https://stevenlebetkin.com/articles-and-musical-thoughts/
 
 https://stevenlebetkin.com/composition-technique-vs-harmonic-technique/
 
+textsMusic in transition : a study of tonal expansion and atonality, 1900-1920
