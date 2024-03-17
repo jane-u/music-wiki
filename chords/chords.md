@@ -3,3 +3,5 @@
 [Wiki - Petrushka chord](https://en.wikipedia.org/wiki/Petrushka_chord)
 
 https://www.musictheoryacademy.com/understanding-music/harmony/augmented-6th-chords/
+
+https://www.izotope.com/en/learn/3-simple-chromatic-chords-to-change-up-your-songs.html
