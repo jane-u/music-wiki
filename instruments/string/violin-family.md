@@ -59,3 +59,7 @@ VIOLIN VIBRATO EXAMPLES - Normal speed/slow motion
 **Kennedy Violins**. What is _**Col legno**_?
 
 [Col legno](https://en.wikipedia.org/wiki/Col_legno) is an Italian word that means “with wood”.  It’s a technique that often used with violin and other bowed stringed instruments. Col legno is used by bouncing the bow the same way you would with any other spicatto technique.  
+
+---
+
+What do the small notes mean on 1st violin part https://music.stackexchange.com/questions/124734/what-do-the-small-notes-mean-on-1st-violin-part
