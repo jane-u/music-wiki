@@ -14,3 +14,5 @@ https://www.izotope.com/en/learn/how-to-keep-repetition-in-music-interesting.htm
 
 List of Italian musical terms used in English https://en.wikipedia.org/wiki/List_of_Italian_musical_terms_used_in_English
 Chapter Moods
+
+https://www.musiccrashcourses.com/lessons/expression.html
