@@ -11,3 +11,6 @@ https://stevenlebetkin.com/composition-technique-vs-harmonic-technique/
 textsMusic in transition : a study of tonal expansion and atonality, 1900-1920
 
 https://www.izotope.com/en/learn/how-to-keep-repetition-in-music-interesting.html
+
+List of Italian musical terms used in English https://en.wikipedia.org/wiki/List_of_Italian_musical_terms_used_in_English
+Chapter Moods
