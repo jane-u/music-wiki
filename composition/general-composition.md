@@ -16,3 +16,6 @@ List of Italian musical terms used in English https://en.wikipedia.org/wiki/List
 Chapter Moods
 
 https://www.musiccrashcourses.com/lessons/expression.html
+
+https://www.m5music.hk/en/dictionary/pesante/
+
