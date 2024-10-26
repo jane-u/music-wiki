@@ -31,15 +31,15 @@ https://en.wikipedia.org/wiki/IRCAM
 
 IRCAM (French: Ircam, Institut de recherche et coordination acoustique/musique, English: Institute for Research and Coordination in Acoustics/Music) is a French institute dedicated to the research of music and sound, especially in the fields of avant garde and electro-acoustical art music.
 
-Pierre Boulez - Le marteau sans maître
-Precipotato https://www.youtube.com/@precipotato442
-
-[<img src="https://img.youtube.com/vi/ljcDXPcWRvI/maxresdefault.jpg" width=20% height=20% align="right">](https://youtu.be/ljcDXPcWRvI)
 
 
+[<img src="https://img.youtube.com/vi/ljcDXPcWRvI/maxresdefault.jpg" width=20% height=20% align="left"> Pierre Boulez - Le marteau sans maître](https://youtu.be/ljcDXPcWRvI)
+
+Precipotato
+https://www.youtube.com/@precipotato442
 
 
-<img width="1451" alt="image" src="https://github.com/user-attachments/assets/0a94f792-f3eb-41d8-8745-0196a99d4569">
+<img width="50%" src="https://github.com/user-attachments/assets/0a94f792-f3eb-41d8-8745-0196a99d4569">
 
 Alto == Viola
 
