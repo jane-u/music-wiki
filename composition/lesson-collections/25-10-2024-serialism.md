@@ -13,6 +13,8 @@ Darmstadt School refers to a group of composers who were associated with the Dar
 Mathematical music.
 Inspired by dodecafony, but extended by making (tone) series of everything: pitches, rhythms, timbre.
 
+## Pierre Boulez
+
 https://en.wikipedia.org/wiki/Pierre_Boulez
 
 Mathematical music.
@@ -31,8 +33,6 @@ https://en.wikipedia.org/wiki/IRCAM
 
 IRCAM (French: Ircam, Institut de recherche et coordination acoustique/musique, English: Institute for Research and Coordination in Acoustics/Music) is a French institute dedicated to the research of music and sound, especially in the fields of avant garde and electro-acoustical art music.
 
-
-
 [<img src="https://img.youtube.com/vi/ljcDXPcWRvI/maxresdefault.jpg" width=20% height=20% align="left"> Pierre Boulez - Le marteau sans maître](https://youtu.be/ljcDXPcWRvI)
 
 Precipotato
@@ -42,5 +42,13 @@ https://www.youtube.com/@precipotato442
 <img width="50%" src="https://github.com/user-attachments/assets/0a94f792-f3eb-41d8-8745-0196a99d4569">
 
 Alto == Viola
+
+https://en.wikipedia.org/wiki/Le_Marteau_sans_ma%C3%AEtre
+
+The instrumentation was quite novel for Western music at the time, lacking any kind of bass instrument, and drew some influence from the sound of non-Western instruments. The xylorimba recalls the African balafon; the vibraphone, the Balinese gamelan; and the guitar, the Japanese koto, though "neither the style nor the actual use of these instruments has any connection with these different musical civilizations". Boulez chose the collection with a continuum of sonorities in mind: "a number of features shared by these instruments (forms) a continuous passage from voice to vibraphone". The purpose is to allow a graduated deconstruction of the voice into percussive noises, a compositional technique which has been common throughout Boulez's work (e.g. Sur Incises of 1998 similarly breaks down the sounds of the piano by combining it with harp and percussion). The voice and five pitched instruments can be arranged in a line, each pair connected by a similarity, as in the following diagram:
+
+![image](https://github.com/user-attachments/assets/69ef2fe7-c185-4b4c-ac68-30482eb57d54)
+
+
 
 
