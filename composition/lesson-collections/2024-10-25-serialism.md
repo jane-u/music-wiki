@@ -86,7 +86,8 @@ Feinbird
 
 https://www.youtube.com/@feinbird9161
 
-[<img src="https://img.youtube.com/vi/ty9G0asmZ_k/maxresdefault.jpg" width=20% height=20% align="left"> Karlheinz Stockhausen / Stimmung](https://youtu.be/ty9G0asmZ_k)
+
+[<img src="http://i3.ytimg.com/vi/ty9G0asmZ_k/hqdefault.jpg" width=20% height=20% align="left"> Karlheinz Stockhausen / Stimmung](https://youtu.be/ty9G0asmZ_k)
 
 se146np
 
@@ -98,11 +99,14 @@ pdfcoffee.com_stockhausen-stimmung-full-score-original-version-x27work-no-24x27-
 
 https://drive.google.com/file/d/1qcunCQ4HeM9LTpLaGiompp-dtJ7wPCy5/view?usp=drive_link
 
-[<img src="https://img.youtube.com/vi/UmGIiBfWI0E/maxresdefault.jpg" width=20% height=20% align="left"> Gesang der Jünglige - Karlheinz Stockhausen](https://youtu.be/UmGIiBfWI0E)
+
+[<img src="http://i3.ytimg.com/vi/UmGIiBfWI0E/hqdefault.jpg" width=20% height=20% align="left"> Gesang der Jünglige - Karlheinz Stockhausen](https://youtu.be/UmGIiBfWI0E)
 
 Polar Music Prize
 
 https://www.youtube.com/@Polarmusicprizeofficial
+
+<br>
 
 [<img src="https://img.youtube.com/vi/7ykQFrL0X74/maxresdefault.jpg" width=20% height=20% align="left"> Helikopter-Streichquartett (Helicopter Quartet) - Karlheinz Stockhausen](https://youtu.be/7ykQFrL0X74)
 
@@ -110,9 +114,12 @@ thencaesarfalls
 
 https://www.youtube.com/@thencaesarfalls
 
+
 Estonian ensemble:
 
-[<img src="https://img.youtube.com/vi/TuKqqmwygEc/maxresdefault.jpg" width=20% height=20% align="left"> KARLHEINZ STOCKHAUSEN Herbstmusik](https://youtu.be/TuKqqmwygEc)
+<br>
+
+[<img src="http://i3.ytimg.com/vi/TuKqqmwygEc/hqdefault.jpg" width=20% height=20% align="left"> KARLHEINZ STOCKHAUSEN Herbstmusik](https://youtu.be/TuKqqmwygEc)
 
 Yxus Ensemble
 
