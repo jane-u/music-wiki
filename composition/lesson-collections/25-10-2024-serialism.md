@@ -8,7 +8,7 @@ In music, serialism is a method of composition using series of pitches, rhythms,
 
 https://en.wikipedia.org/wiki/Darmstadt_School
 
-Darmstadt School refers to a group of composers who were associated with the Darmstadt International Summer Courses for New Music (Darmstädter Ferienkurse) from the early 1950s to the early 1960s in Darmstadt, Germany, and who shared some aesthetic attitudes. Initially, this included only Pierre Boulez, Bruno Maderna, Luigi Nono, and Karlheinz Stockhausen, but others came to be added, in various ways. The term does not refer to an educational institution.
+Darmstadt School refers to a group of composers who were associated with the Darmstadt International Summer Courses for New Music (Darmstädter Ferienkurse) from the early 1950s to the early 1960s in Darmstadt, Germany, and who shared some aesthetic attitudes. Initially, this included only **Pierre Boulez**, **Bruno Maderna**, **Luigi Nono**, and **Karlheinz Stockhausen**, but others came to be added, in various ways. The term does not refer to an educational institution.
 
 Mathematical music.
 Inspired by dodecafony, but extended by making (tone) series of everything: pitches, rhythms, timbre.
@@ -48,6 +48,34 @@ https://en.wikipedia.org/wiki/Le_Marteau_sans_ma%C3%AEtre
 The instrumentation was quite novel for Western music at the time, lacking any kind of bass instrument, and drew some influence from the sound of non-Western instruments. The xylorimba recalls the African balafon; the vibraphone, the Balinese gamelan; and the guitar, the Japanese koto, though "neither the style nor the actual use of these instruments has any connection with these different musical civilizations". Boulez chose the collection with a continuum of sonorities in mind: "a number of features shared by these instruments (forms) a continuous passage from voice to vibraphone". The purpose is to allow a graduated deconstruction of the voice into percussive noises, a compositional technique which has been common throughout Boulez's work (e.g. Sur Incises of 1998 similarly breaks down the sounds of the piano by combining it with harp and percussion). The voice and five pitched instruments can be arranged in a line, each pair connected by a similarity, as in the following diagram:
 
 ![image](https://github.com/user-attachments/assets/69ef2fe7-c185-4b4c-ac68-30482eb57d54)
+
+### Pitch multiplication 
+
+Boulez uses many serial composition techniques, including pitch multiplication and pitch-class association.
+
+https://en.wikipedia.org/wiki/Multiplication_(music)
+
+## Luigi Nono
+
+https://en.wikipedia.org/wiki/Luigi_Nono
+
+Write/play harmonics for flute, wind instruments. Multiphonics. Flageolets.
+
+Multiphonics is possible on violin, too.
+
+[<img src="https://img.youtube.com/vi/vqR9PjqMBFI/maxresdefault.jpg" width=20% height=20% align="left"> hand werk: Luigi Nono - A Pierre. Dell'azzurro silenzio, inquietum (1985)](https://youtu.be/vqR9PjqMBFI)
+
+hand werk
+https://www.youtube.com/@ensemble_hand_werk
+
+## Karlheinz Stockhausen
+
+Controlled aleatoric music.
+
+[<img src="https://img.youtube.com/vi/mMDdihXI98A/maxresdefault.jpg" width=20% height=20% align="left"> https://youtu.be/mMDdihXI98A](K.Stockhausen - Klavierstuck XI (Sheet+Audio))
+
+
+
 
 
 
