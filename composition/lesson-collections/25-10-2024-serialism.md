@@ -55,6 +55,7 @@ Boulez uses many serial composition techniques, including pitch multiplication a
 
 https://en.wikipedia.org/wiki/Multiplication_(music)
 
+
 ## Luigi Nono
 
 https://en.wikipedia.org/wiki/Luigi_Nono
@@ -67,6 +68,8 @@ Multiphonics is possible on violin, too.
 
 hand werk
 https://www.youtube.com/@ensemble_hand_werk
+
+
 
 ## Karlheinz Stockhausen
 
