@@ -70,13 +70,17 @@ hand werk
 https://www.youtube.com/@ensemble_hand_werk
 
 
+<br>
 
 ## Karlheinz Stockhausen
 
 Controlled aleatoric music.
 
-[<img src="https://img.youtube.com/vi/mMDdihXI98A/maxresdefault.jpg" width=20% height=20% align="left"> https://youtu.be/mMDdihXI98A](K.Stockhausen - Klavierstuck XI (Sheet+Audio))
+[<img src="https://img.youtube.com/vi/mMDdihXI98A/maxresdefault.jpg" width=20% height=20% align="left"> K.Stockhausen - Klavierstuck XI (Sheet+Audio)(https://youtu.be/mMDdihXI98A)]
 
+pdfcoffee.com_a-pierre-luigi-nono--pdf-free.pdf
+
+https://drive.google.com/file/d/1cI2AcCWE4U92Gx5IPvchxUzRsl-Uo0Up/view?usp=drive_link
 
 
 
