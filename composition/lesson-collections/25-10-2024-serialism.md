@@ -33,7 +33,11 @@ IRCAM (French: Ircam, Institut de recherche et coordination acoustique/musique, 
 
 Pierre Boulez - Le marteau sans maître
 Precipotato https://www.youtube.com/@precipotato442
-https://www.youtube.com/watch?v=ljcDXPcWRvI
+
+[<img src="https://img.youtube.com/vi/ljcDXPcWRvI/maxresdefault.jpg" width=20% height=20% align="right">](https://youtu.be/ljcDXPcWRvI)
+
+
+
 
 <img width="1451" alt="image" src="https://github.com/user-attachments/assets/0a94f792-f3eb-41d8-8745-0196a99d4569">
 
