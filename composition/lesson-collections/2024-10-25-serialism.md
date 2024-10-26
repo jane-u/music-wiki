@@ -69,6 +69,10 @@ Multiphonics is possible on violin, too.
 hand werk
 https://www.youtube.com/@ensemble_hand_werk
 
+pdfcoffee.com_a-pierre-luigi-nono--pdf-free.pdf
+
+https://drive.google.com/file/d/1cI2AcCWE4U92Gx5IPvchxUzRsl-Uo0Up/view?usp=drive_link
+
 
 <br>
 
@@ -76,11 +80,50 @@ https://www.youtube.com/@ensemble_hand_werk
 
 Controlled aleatoric music.
 
-[<img src="https://img.youtube.com/vi/mMDdihXI98A/maxresdefault.jpg" width=20% height=20% align="left"> K.Stockhausen - Klavierstuck XI (Sheet+Audio)(https://youtu.be/mMDdihXI98A)]
+[<img src="https://img.youtube.com/vi/mMDdihXI98A/maxresdefault.jpg" width=20% height=20% align="left"> K.Stockhausen - Klavierstuck XI (Sheet+Audio)](https://youtu.be/mMDdihXI98A)
 
-pdfcoffee.com_a-pierre-luigi-nono--pdf-free.pdf
+Feinbird
 
-https://drive.google.com/file/d/1cI2AcCWE4U92Gx5IPvchxUzRsl-Uo0Up/view?usp=drive_link
+https://www.youtube.com/@feinbird9161
+
+[<img src="https://img.youtube.com/vi/ty9G0asmZ_k/maxresdefault.jpg" width=20% height=20% align="left"> Karlheinz Stockhausen / Stimmung](https://youtu.be/ty9G0asmZ_k)
+
+se146np
+
+https://www.youtube.com/@se146np
+
+Stimmung - one of first Western pieces that uses human's overtones.
+
+pdfcoffee.com_stockhausen-stimmung-full-score-original-version-x27work-no-24x27-2-pdf-free.pdf
+
+https://drive.google.com/file/d/1qcunCQ4HeM9LTpLaGiompp-dtJ7wPCy5/view?usp=drive_link
+
+[<img src="https://img.youtube.com/vi/UmGIiBfWI0E/maxresdefault.jpg" width=20% height=20% align="left"> Gesang der Jünglige - Karlheinz Stockhausen](https://youtu.be/UmGIiBfWI0E)
+
+Polar Music Prize
+
+https://www.youtube.com/@Polarmusicprizeofficial
+
+[<img src="https://img.youtube.com/vi/7ykQFrL0X74/maxresdefault.jpg" width=20% height=20% align="left"> Helikopter-Streichquartett (Helicopter Quartet) - Karlheinz Stockhausen](https://youtu.be/7ykQFrL0X74)
+
+thencaesarfalls
+
+https://www.youtube.com/@thencaesarfalls
+
+Estonian ensemble:
+
+[<img src="https://img.youtube.com/vi/TuKqqmwygEc/maxresdefault.jpg" width=20% height=20% align="left"> KARLHEINZ STOCKHAUSEN Herbstmusik](https://youtu.be/TuKqqmwygEc)
+
+Yxus Ensemble
+
+https://www.youtube.com/@yxusensemble5280
+
+
+
+
+
+
+
 
 
 
