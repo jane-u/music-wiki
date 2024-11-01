@@ -62,7 +62,6 @@ https://en.wikipedia.org/wiki/Luigi_Nono
 
 Write/play harmonics for flute, wind instruments. Multiphonics. Flageolets.
 
-Multiphonics is possible on violin, too.
 
 [<img src="https://img.youtube.com/vi/vqR9PjqMBFI/maxresdefault.jpg" width=20% height=20% align="left"> hand werk: Luigi Nono - A Pierre. Dell'azzurro silenzio, inquietum (1985)](https://youtu.be/vqR9PjqMBFI)
 
