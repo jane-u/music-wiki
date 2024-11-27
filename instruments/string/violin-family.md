@@ -63,3 +63,6 @@ VIOLIN VIBRATO EXAMPLES - Normal speed/slow motion
 ---
 
 What do the small notes mean on 1st violin part https://music.stackexchange.com/questions/124734/what-do-the-small-notes-mean-on-1st-violin-part
+
+https://meadowlarkviolin.com/violinblog/advice-for-violinists 
+
