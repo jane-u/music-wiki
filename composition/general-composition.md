@@ -20,3 +20,5 @@ https://www.musiccrashcourses.com/lessons/expression.html
 https://www.m5music.hk/en/dictionary/pesante/
 
 https://www.m5music.hk/en/dictionary/allegro-moderato/
+
+https://unison.audio/dramatic-chord-progressions/
