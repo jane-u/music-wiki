@@ -98,7 +98,7 @@ https://www.youtube.com/@DidierGuigue
 
 [<img src="http://i3.ytimg.com/vi/G7bdwarV6SQ/hqdefault.jpg" width=20% height=20% align="left"> György Ligeti: Volumina (Nicholas Papadimitriou, Sauer Organ, Orgelpark)](https://youtu.be/G7bdwarV6SQ)
 
-Nicholas Papadimitriou
+## Nicholas Papadimitriou
 
 https://www.youtube.com/@NicholasPapadimitriou1993
 
@@ -114,7 +114,7 @@ https://www.youtube.com/@fracfranche-comte9641
 
 [<img src="http://i3.ytimg.com/vi/71hNl_skTZQ/hqdefault.jpg" width=20% height=20% align="left"> Ligeti - Artikulation](https://youtu.be/71hNl_skTZQ)
 
-Donald Craig
+## Donald Craig
 
 https://www.youtube.com/@doncraigmusician
 
