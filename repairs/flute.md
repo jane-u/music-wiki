@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=iAVI45KHW4w Simple Flute Repair Tips & Tricks
 
 https://www.youtube.com/watch?v=De0tZus7FQ4&list=PLtJyi3RgtJ2tW0JCtowIExs-QjT-wTSdn playlist Replace Flute Pads
 
-
+https://www.youtube.com/watch?v=lp0PcDBwscU MARKING PADS AND SHIMS 
