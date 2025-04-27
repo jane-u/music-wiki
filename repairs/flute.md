@@ -11,3 +11,10 @@ https://www.youtube.com/watch?v=iAVI45KHW4w Simple Flute Repair Tips & Tricks
 https://www.youtube.com/watch?v=De0tZus7FQ4&list=PLtJyi3RgtJ2tW0JCtowIExs-QjT-wTSdn playlist Replace Flute Pads
 
 https://www.youtube.com/watch?v=lp0PcDBwscU MARKING PADS AND SHIMS 
+
+https://www.prestiniusa.com/store/product/pa-200-flute-shims-100-units/
+
+https://www.windplus.net/supplies/paper-shims-for-flute-pads.html
+
+https://www.windplus.net/supplies/pad_measurments.html
+
