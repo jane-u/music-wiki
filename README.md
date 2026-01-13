@@ -22,6 +22,11 @@ https://recursivearts.com/virtual-piano/#
 
 https://music.stackexchange.com/questions/6401/whats-the-difference-between-modal-music-and-tonal-music
 
+
+https://pibox.com/resources/glossary/what-is-adsr/
+
+
+
 .
 
 .
